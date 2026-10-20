@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Sunsuvan Bakshi 👋
 
-<!--
-**sunsuvan-bakshi/sunsuvan-bakshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Science & Engineering undergraduate passionate about **Software Development**, **Cybersecurity**, and **AI Integrations**. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+- **Languages:** C++, Python, SQL, JavaScript, HTML/CSS, R
+- **Frameworks & Libraries:** Streamlit, Pandas, NumPy, Matplotlib
+- **Developer Tools:** Git, GitHub, VS Code, PyCharm
+- **Focus Areas:** Application Security, System Fundamentals, LLM API Integration
+
+---
+
+### 🚀 Featured Projects
+- **[AI Workout & Diet Planner](https://github.com/Sunsuvan-Bakshi/your-repo-name)** — AI health companion application built using Python, Streamlit, and Google's Gemini API.
+
+---
+
+### 📫 Connect With Me
+- **Email:** bakshisunsuvan@gmail.com
+- **GitHub:** [Sunsuvan-Bakshi](https://github.com/Sunsuvan-Bakshi)
